@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lionel Messi",
+    "nationality": "Argentina",
+    "position": "Forward",
+    "era": "2004-2025",
+    "clubs": ["Barcelona", "PSG", "Inter Miami"],
+    "hint": "Record Ballon d’Or winner",
+    "biographyClues": [
+      "Debuted for a Catalan giant as a teenager.",
+      "Left-footed maestro known for dribbling and playmaking.",
+      "Won a World Cup with his national team.",
+      "Holds goal and assist records in Spain."
+    ]
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "era": "2002-2025",
+    "clubs": ["Sporting", "Manchester United", "Real Madrid", "Juventus", "Al Nassr"],
+    "hint": "CR7",
+    "biographyClues": [
+      "Prolific scorer renowned for heading and athleticism.",
+      "Won league titles in England, Spain, and Italy.",
+      "All-time top scorer in UEFA club competitions.",
+      "Iconic number and celebration."
+    ]
+  },
+  {
+    "name": "Zinedine Zidane",
+    "nationality": "France",
+    "position": "Attacking Midfielder",
+    "era": "1989-2006",
+    "clubs": ["Cannes", "Bordeaux", "Juventus", "Real Madrid"],
+    "hint": "Zizou",
+    "biographyClues": [
+      "Elegance and first touch defined his playmaking.",
+      "Scored a famous left-foot volley in a Champions League final.",
+      "Led his nation to a World Cup title and a European championship.",
+      "Later won multiple Champions Leagues as a coach."
+    ]
+  },
+  {
+    "name": "Ronaldinho",
+    "nationality": "Brazil",
+    "position": "Attacking Midfielder",
+    "era": "1998-2015",
+    "clubs": ["Grêmio", "PSG", "Barcelona", "AC Milan", "Atlético Mineiro"],
+    "hint": "Magician with a smile",
+    "biographyClues": [
+      "No-look passes and elasticos thrilled fans worldwide.",
+      "Won the Ballon d’Or in the mid-2000s.",
+      "Sparked a golden era at a Catalan club.",
+      "Iconic free-kick technique and samba flair."
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "nationality": "France",
+    "position": "Forward",
+    "era": "1994-2014",
+    "clubs": ["Monaco", "Juventus", "Arsenal", "Barcelona", "New York Red Bulls"],
+    "hint": "Arsenal’s record scorer",
+    "biographyClues": [
+      "Devastating pace cutting in from the left.",
+      "Integral to an unbeaten league season in England.",
+      "Transitioned from winger to prolific striker.",
+      "Later lifted a treble in Spain."
+    ]
+  }
+]
