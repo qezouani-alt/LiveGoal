@@ -1,0 +1,122 @@
+[
+  {
+    "event": "France won the World Cup",
+    "year": 2018,
+    "hint": "Held in Russia",
+    "description": "France defeated Croatia 4-2 in the final"
+  },
+  {
+    "event": "Brazil won the World Cup",
+    "year": 2002,
+    "hint": "Held in Japan and South Korea",
+    "description": "Brazil defeated Germany 2-0 in the final"
+  },
+  {
+    "event": "Spain won the World Cup",
+    "year": 2010,
+    "hint": "Held in South Africa",
+    "description": "Spain defeated Netherlands 1-0 in the final"
+  },
+  {
+    "event": "Germany won the World Cup",
+    "year": 2014,
+    "hint": "Held in Brazil",
+    "description": "Germany defeated Argentina 1-0 in the final"
+  },
+  {
+    "event": "Italy won the World Cup",
+    "year": 2006,
+    "hint": "Held in Germany",
+    "description": "Italy defeated France 5-3 on penalties"
+  },
+  {
+    "event": "Real Madrid won their 10th Champions League",
+    "year": 2014,
+    "hint": "La Decima",
+    "description": "Real Madrid defeated Atletico Madrid 4-1 in the final"
+  },
+  {
+    "event": "Barcelona won the treble",
+    "year": 2009,
+    "hint": "Under Pep Guardiola",
+    "description": "Won La Liga, Copa del Rey, and Champions League"
+  },
+  {
+    "event": "Leicester City won the Premier League",
+    "year": 2016,
+    "hint": "5000-1 odds at the start of the season",
+    "description": "Claudio Ranieri's miracle season"
+  },
+  {
+    "event": "Manchester United won the treble",
+    "year": 1999,
+    "hint": "Under Sir Alex Ferguson",
+    "description": "Won Premier League, FA Cup, and Champions League"
+  },
+  {
+    "event": "AC Milan won the Champions League",
+    "year": 2007,
+    "hint": "Revenge for Istanbul",
+    "description": "AC Milan defeated Liverpool 2-1 in the final"
+  },
+  {
+    "event": "Arsenal went unbeaten in the Premier League",
+    "year": 2004,
+    "hint": "The Invincibles season",
+    "description": "Went 38 games without losing under Arsene Wenger"
+  },
+  {
+    "event": "Chelsea won their first Champions League",
+    "year": 2012,
+    "hint": "Against Bayern Munich in Munich",
+    "description": "Won on penalties after extra time"
+  },
+  {
+    "event": "Liverpool won the Champions League",
+    "year": 2005,
+    "hint": "The Miracle of Istanbul",
+    "description": "Came back from 3-0 down to win on penalties"
+  },
+  {
+    "event": "Manchester City won their first Premier League",
+    "year": 2012,
+    "hint": "Aguerooooo moment",
+    "description": "Won on goal difference in the final minutes"
+  },
+  {
+    "event": "Bayern Munich won the treble",
+    "year": 2013,
+    "hint": "Under Jupp Heynckes",
+    "description": "Won Bundesliga, DFB-Pokal, and Champions League"
+  },
+  {
+    "event": "Inter Milan won the treble",
+    "year": 2010,
+    "hint": "Under Jose Mourinho",
+    "description": "Won Serie A, Coppa Italia, and Champions League"
+  },
+  {
+    "event": "Atletico Madrid won La Liga",
+    "year": 2014,
+    "hint": "Under Diego Simeone",
+    "description": "Broke the Real Madrid-Barcelona duopoly"
+  },
+  {
+    "event": "Juventus won Serie A for the 9th consecutive time",
+    "year": 2020,
+    "hint": "Under Maurizio Sarri",
+    "description": "Continued their domestic dominance"
+  },
+  {
+    "event": "PSG won their first Champions League final",
+    "year": 2020,
+    "hint": "Lost to Bayern Munich",
+    "description": "Reached their first final in club history"
+  },
+  {
+    "event": "Tottenham reached their first Champions League final",
+    "year": 2019,
+    "hint": "Lost to Liverpool",
+    "description": "Lucas Moura's hat-trick in the semi-final"
+  }
+]
