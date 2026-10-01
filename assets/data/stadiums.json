@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Camp Nou",
+    "city": "Barcelona",
+    "team": "FC Barcelona",
+    "imageUrl": "",
+    "hint": "Home of Messi's former team",
+    "historyClues": [
+      "Opened in 1957 and expanded several times during the 20th century.",
+      "Its capacity once exceeded 120,000 before all-seater regulations.",
+      "Hosted European finals and countless El Clásicos.",
+      "Located in the Les Corts area of Barcelona."
+    ]
+  },
+  {
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "team": "Real Madrid",
+    "imageUrl": "",
+    "hint": "Home of Los Blancos",
+    "historyClues": [
+      "Opened in 1947 and undergoing major modern renovations in the 2020s.",
+      "Named after a former club president.",
+      "Hosted multiple European Cup finals.",
+      "Situated on Paseo de la Castellana."
+    ]
+  },
+  {
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "team": "Manchester United",
+    "imageUrl": "",
+    "hint": "Theatre of Dreams",
+    "historyClues": [
+      "Opened in 1910 and rebuilt after heavy damage in World War II.",
+      "Nicknamed the Theatre of Dreams.",
+      "Record domestic attendances before all-seater rules.",
+      "Located in Greater Manchester, in Old Trafford."
+    ]
+  },
+  {
+    "name": "Anfield",
+    "city": "Liverpool",
+    "team": "Liverpool",
+    "imageUrl": "",
+    "hint": "You'll Never Walk Alone",
+    "historyClues": [
+      "Opened in 1884 and became Liverpool's home in 1892.",
+      "The Kop is one of the most famous stands in world football.",
+      "Known for its electric European nights.",
+      "Expanded Main Stand in the mid-2010s."
+    ]
+  },
+  {
+    "name": "Allianz Arena",
+    "city": "Munich",
+    "team": "Bayern Munich",
+    "imageUrl": "",
+    "hint": "The glowing panels stadium",
+    "historyClues": [
+      "Opened in 2005 with an exterior of inflated ETFE panels.",
+      "Colors change to represent the home team.",
+      "Hosted 2006 World Cup matches.",
+      "Located in the Fröttmaning area of Munich."
+    ]
+  },
+  {
+    "name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "team": "Borussia Dortmund",
+    "imageUrl": "",
+    "hint": "Yellow Wall",
+    "historyClues": [
+      "Germany's largest stadium by capacity.",
+      "The Südtribüne is nicknamed the Yellow Wall.",
+      "Opened in 1974 for the World Cup.",
+      "Famous for intense atmosphere and tifo displays."
+    ]
+  },
+  {
+    "name": "Parc des Princes",
+    "city": "Paris",
+    "team": "Paris Saint-Germain",
+    "imageUrl": "",
+    "hint": "PSG fortress",
+    "historyClues": [
+      "Opened in 1972 in its current form with iconic concrete ribs.",
+      "Hosted numerous France national team matches.",
+      "Located in the 16th arrondissement.",
+      "Scene of PSG's domestic dominance in the 2010s and 2020s."
+    ]
+  },
+  {
+    "name": "Stade Vélodrome",
+    "city": "Marseille",
+    "team": "Olympique de Marseille",
+    "imageUrl": "",
+    "hint": "Curved roof near the Mediterranean",
+    "historyClues": [
+      "Opened in 1937 and renovated for Euro 2016 with a sweeping roof.",
+      "Known for passionate support and intense derbies.",
+      "Hosts both football and rugby.",
+      "Located in the south of the city near the Prado."
+    ]
+  },
+  {
+    "name": "San Siro",
+    "city": "Milan",
+    "team": "AC Milan / Inter",
+    "imageUrl": "",
+    "hint": "Shared by two giants",
+    "historyClues": [
+      "Also known as Stadio Giuseppe Meazza.",
+      "Opened in 1926 and expanded multiple times.",
+      "Hosted World Cup and European finals.",
+      "Famous for its towering spiral ramps."
+    ]
+  },
+  {
+    "name": "Allianz Stadium",
+    "city": "Turin",
+    "team": "Juventus",
+    "imageUrl": "",
+    "hint": "Modern bowl in Turin",
+    "historyClues": [
+      "Opened in 2011 on the site of the old Delle Alpi.",
+      "Intimate design with seats close to the pitch.",
+      "Hosted UEFA club finals events.",
+      "Part of a larger commercial complex."
+    ]
+  }
+]
