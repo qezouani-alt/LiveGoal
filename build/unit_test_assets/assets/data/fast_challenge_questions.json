@@ -1,0 +1,614 @@
+[
+  {
+    "question": "Which country won the 2018 World Cup?",
+    "options": ["France", "Croatia", "Brazil", "Germany"],
+    "correctAnswer": "France",
+    "category": "World Cup"
+  },
+  {
+    "question": "Who is known as 'The Special One'?",
+    "options": ["Pep Guardiola", "Jose Mourinho", "Jurgen Klopp", "Carlo Ancelotti"],
+    "correctAnswer": "Jose Mourinho",
+    "category": "Managers"
+  },
+  {
+    "question": "Which club is known as 'The Red Devils'?",
+    "options": ["Liverpool", "Manchester United", "Arsenal", "Chelsea"],
+    "correctAnswer": "Manchester United",
+    "category": "Clubs"
+  },
+  {
+    "question": "How many players are on a football team?",
+    "options": ["10", "11", "12", "9"],
+    "correctAnswer": "11",
+    "category": "Rules"
+  },
+  {
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Pele", "Maradona"],
+    "correctAnswer": "Lionel Messi",
+    "category": "Players"
+  },
+  {
+    "question": "What is the duration of a football match?",
+    "options": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "correctAnswer": "90 minutes",
+    "category": "Rules"
+  },
+  {
+    "question": "Which country has won the most World Cups?",
+    "options": ["Germany", "Brazil", "Argentina", "Italy"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Real Madrid's stadium?",
+    "options": ["Camp Nou", "Santiago Bernabeu", "Wembley", "San Siro"],
+    "correctAnswer": "Santiago Bernabeu",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which league is known as 'La Liga'?",
+    "options": ["English Premier League", "Spanish League", "Italian League", "German League"],
+    "correctAnswer": "Spanish League",
+    "category": "Leagues"
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal?",
+    "options": ["Pele", "Maradona", "Ronaldinho", "Zidane"],
+    "correctAnswer": "Maradona",
+    "category": "Players"
+  },
+  {
+    "question": "Which team won the Premier League in 2016?",
+    "options": ["Arsenal", "Chelsea", "Leicester City", "Manchester City"],
+    "correctAnswer": "Leicester City",
+    "category": "Premier League"
+  },
+  {
+    "question": "What is the maximum number of substitutions allowed?",
+    "options": ["3", "5", "7", "Unlimited"],
+    "correctAnswer": "5",
+    "category": "Rules"
+  },
+  {
+    "question": "Which player is known as 'CR7'?",
+    "options": ["Cristiano Ronaldo", "Cesc Fabregas", "Carlos Tevez", "Cesc Fabregas"],
+    "correctAnswer": "Cristiano Ronaldo",
+    "category": "Players"
+  },
+  {
+    "question": "What color cards are used in football?",
+    "options": ["Red and Yellow", "Red and Blue", "Yellow and Green", "Red and White"],
+    "correctAnswer": "Red and Yellow",
+    "category": "Rules"
+  },
+  {
+    "question": "Which country hosted the 2014 World Cup?",
+    "options": ["Argentina", "Brazil", "Germany", "South Africa"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Barcelona's stadium?",
+    "options": ["Santiago Bernabeu", "Camp Nou", "San Siro", "Old Trafford"],
+    "correctAnswer": "Camp Nou",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which team is known as 'The Gunners'?",
+    "options": ["Chelsea", "Arsenal", "Liverpool", "Tottenham"],
+    "correctAnswer": "Arsenal",
+    "category": "Clubs"
+  },
+  {
+    "question": "How many times has Brazil won the World Cup?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "5",
+    "category": "World Cup"
+  },
+  {
+    "question": "Which player is known as 'The King'?",
+    "options": ["Pele", "Maradona", "Cristiano Ronaldo", "Lionel Messi"],
+    "correctAnswer": "Pele",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of the Champions League trophy?",
+    "options": ["The Big Ears", "The Cup", "The Champions Cup", "The European Cup"],
+    "correctAnswer": "The Big Ears",
+    "category": "Competitions"
+  },
+  {
+    "question": "Which team won the first Premier League title?",
+    "options": ["Manchester United", "Arsenal", "Chelsea", "Liverpool"],
+    "correctAnswer": "Manchester United",
+    "category": "Premier League"
+  },
+  {
+    "question": "What is the minimum number of players needed to start a match?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswer": "7",
+    "category": "Rules"
+  },
+  {
+    "question": "Which country won the 2010 World Cup?",
+    "options": ["Netherlands", "Germany", "Spain", "Brazil"],
+    "correctAnswer": "Spain",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Liverpool's anthem?",
+    "options": ["You'll Never Walk Alone", "We Are The Champions", "Glory Glory", "The Kop"],
+    "correctAnswer": "You'll Never Walk Alone",
+    "category": "Clubs"
+  },
+  {
+    "question": "Which player has scored the most goals in a single season?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Kylian Mbappe"],
+    "correctAnswer": "Lionel Messi",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Manchester United's stadium?",
+    "options": ["Anfield", "Old Trafford", "Emirates Stadium", "Stamford Bridge"],
+    "correctAnswer": "Old Trafford",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 2006 World Cup?",
+    "options": ["France", "Germany", "Italy", "Portugal"],
+    "correctAnswer": "Italy",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Chelsea's stadium?",
+    "options": ["Stamford Bridge", "Emirates Stadium", "Anfield", "Old Trafford"],
+    "correctAnswer": "Stamford Bridge",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Egyptian King'?",
+    "options": ["Mohamed Salah", "Sadio Mane", "Roberto Firmino", "Virgil van Dijk"],
+    "correctAnswer": "Mohamed Salah",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Arsenal's stadium?",
+    "options": ["Emirates Stadium", "Old Trafford", "Anfield", "Stamford Bridge"],
+    "correctAnswer": "Emirates Stadium",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 2002 World Cup?",
+    "options": ["Germany", "Brazil", "Turkey", "South Korea"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Liverpool's stadium?",
+    "options": ["Anfield", "Old Trafford", "Emirates Stadium", "Stamford Bridge"],
+    "correctAnswer": "Anfield",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Magician'?",
+    "options": ["Ronaldinho", "Zidane", "Maradona", "Pele"],
+    "correctAnswer": "Ronaldinho",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Tottenham's stadium?",
+    "options": ["White Hart Lane", "Tottenham Hotspur Stadium", "Wembley", "Emirates Stadium"],
+    "correctAnswer": "Tottenham Hotspur Stadium",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1998 World Cup?",
+    "options": ["Brazil", "France", "Croatia", "Netherlands"],
+    "correctAnswer": "France",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Manchester City's stadium?",
+    "options": ["Old Trafford", "Etihad Stadium", "Anfield", "Emirates Stadium"],
+    "correctAnswer": "Etihad Stadium",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Beast'?",
+    "options": ["Adriano", "Hulk", "Lukaku", "Drogba"],
+    "correctAnswer": "Adriano",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Bayern Munich's stadium?",
+    "options": ["Allianz Arena", "Signal Iduna Park", "Olympiastadion", "Volkswagen Arena"],
+    "correctAnswer": "Allianz Arena",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1994 World Cup?",
+    "options": ["Brazil", "Italy", "Bulgaria", "Sweden"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Borussia Dortmund's stadium?",
+    "options": ["Allianz Arena", "Signal Iduna Park", "Olympiastadion", "Volkswagen Arena"],
+    "correctAnswer": "Signal Iduna Park",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Phenomenon'?",
+    "options": ["Ronaldo", "Ronaldinho", "Romario", "Rivaldo"],
+    "correctAnswer": "Ronaldo",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of AC Milan's stadium?",
+    "options": ["San Siro", "Allianz Stadium", "Stadio Olimpico", "Juventus Stadium"],
+    "correctAnswer": "San Siro",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1990 World Cup?",
+    "options": ["Argentina", "Germany", "Italy", "England"],
+    "correctAnswer": "Germany",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Inter Milan's stadium?",
+    "options": ["San Siro", "Allianz Stadium", "Stadio Olimpico", "Juventus Stadium"],
+    "correctAnswer": "San Siro",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Divine Ponytail'?",
+    "options": ["Roberto Baggio", "Alessandro Del Piero", "Francesco Totti", "Andrea Pirlo"],
+    "correctAnswer": "Roberto Baggio",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Juventus's stadium?",
+    "options": ["Allianz Stadium", "San Siro", "Stadio Olimpico", "San Siro"],
+    "correctAnswer": "Allianz Stadium",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1986 World Cup?",
+    "options": ["Argentina", "Germany", "France", "Belgium"],
+    "correctAnswer": "Argentina",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of AS Roma's stadium?",
+    "options": ["Stadio Olimpico", "San Siro", "Allianz Stadium", "Juventus Stadium"],
+    "correctAnswer": "Stadio Olimpico",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Kaiser'?",
+    "options": ["Franz Beckenbauer", "Gerd Muller", "Karl-Heinz Rummenigge", "Lothar Matthaus"],
+    "correctAnswer": "Franz Beckenbauer",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Napoli's stadium?",
+    "options": ["Stadio San Paolo", "Stadio Olimpico", "San Siro", "Allianz Stadium"],
+    "correctAnswer": "Stadio San Paolo",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1982 World Cup?",
+    "options": ["Italy", "Germany", "France", "Poland"],
+    "correctAnswer": "Italy",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of PSG's stadium?",
+    "options": ["Parc des Princes", "Stade de France", "Stade Vélodrome", "Allianz Stadium"],
+    "correctAnswer": "Parc des Princes",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Kaiser'?",
+    "options": ["Franz Beckenbauer", "Gerd Muller", "Karl-Heinz Rummenigge", "Lothar Matthaus"],
+    "correctAnswer": "Franz Beckenbauer",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Marseille's stadium?",
+    "options": ["Stade Vélodrome", "Parc des Princes", "Stade de France", "Allianz Stadium"],
+    "correctAnswer": "Stade Vélodrome",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1978 World Cup?",
+    "options": ["Argentina", "Netherlands", "Brazil", "Italy"],
+    "correctAnswer": "Argentina",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Lyon's stadium?",
+    "options": ["Groupama Stadium", "Stade Vélodrome", "Parc des Princes", "Stade de France"],
+    "correctAnswer": "Groupama Stadium",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Black Pearl'?",
+    "options": ["Pele", "Eusebio", "George Weah", "Didier Drogba"],
+    "correctAnswer": "Pele",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Monaco's stadium?",
+    "options": ["Stade Louis II", "Parc des Princes", "Stade Vélodrome", "Stade de France"],
+    "correctAnswer": "Stade Louis II",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1974 World Cup?",
+    "options": ["Germany", "Netherlands", "Brazil", "Poland"],
+    "correctAnswer": "Germany",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Nice's stadium?",
+    "options": ["Allianz Riviera", "Stade Louis II", "Parc des Princes", "Stade Vélodrome"],
+    "correctAnswer": "Allianz Riviera",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Golden Boy'?",
+    "options": ["Kylian Mbappe", "Erling Haaland", "Jadon Sancho", "Phil Foden"],
+    "correctAnswer": "Kylian Mbappe",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Lille's stadium?",
+    "options": ["Stade Pierre-Mauroy", "Allianz Riviera", "Stade Louis II", "Parc des Princes"],
+    "correctAnswer": "Stade Pierre-Mauroy",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1970 World Cup?",
+    "options": ["Brazil", "Italy", "Germany", "Uruguay"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Rennes's stadium?",
+    "options": ["Roazhon Park", "Stade Pierre-Mauroy", "Allianz Riviera", "Stade Louis II"],
+    "correctAnswer": "Roazhon Park",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Little Magician'?",
+    "options": ["Lionel Messi", "Eden Hazard", "Philippe Coutinho", "David Silva"],
+    "correctAnswer": "Lionel Messi",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Strasbourg's stadium?",
+    "options": ["Stade de la Meinau", "Roazhon Park", "Stade Pierre-Mauroy", "Allianz Riviera"],
+    "correctAnswer": "Stade de la Meinau",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1966 World Cup?",
+    "options": ["England", "Germany", "Portugal", "Soviet Union"],
+    "correctAnswer": "England",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Nantes's stadium?",
+    "options": ["Stade de la Beaujoire", "Stade de la Meinau", "Roazhon Park", "Stade Pierre-Mauroy"],
+    "correctAnswer": "Stade de la Beaujoire",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Wizard'?",
+    "options": ["Zinedine Zidane", "Ronaldinho", "Diego Maradona", "Johan Cruyff"],
+    "correctAnswer": "Zinedine Zidane",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Bordeaux's stadium?",
+    "options": ["Matmut Atlantique", "Stade de la Beaujoire", "Stade de la Meinau", "Roazhon Park"],
+    "correctAnswer": "Matmut Atlantique",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1962 World Cup?",
+    "options": ["Brazil", "Czechoslovakia", "Chile", "Yugoslavia"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Montpellier's stadium?",
+    "options": ["Stade de la Mosson", "Matmut Atlantique", "Stade de la Beaujoire", "Stade de la Meinau"],
+    "correctAnswer": "Stade de la Mosson",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Flying Dutchman'?",
+    "options": ["Johan Cruyff", "Marco van Basten", "Ruud Gullit", "Dennis Bergkamp"],
+    "correctAnswer": "Johan Cruyff",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Saint-Etienne's stadium?",
+    "options": ["Stade Geoffroy-Guichard", "Stade de la Mosson", "Matmut Atlantique", "Stade de la Beaujoire"],
+    "correctAnswer": "Stade Geoffroy-Guichard",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1958 World Cup?",
+    "options": ["Brazil", "Sweden", "France", "Germany"],
+    "correctAnswer": "Brazil",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Reims's stadium?",
+    "options": ["Stade Auguste-Delaune", "Stade Geoffroy-Guichard", "Stade de la Mosson", "Matmut Atlantique"],
+    "correctAnswer": "Stade Auguste-Delaune",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Iceman'?",
+    "options": ["Zlatan Ibrahimovic", "Erling Haaland", "Robert Lewandowski", "Harry Kane"],
+    "correctAnswer": "Zlatan Ibrahimovic",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Lens's stadium?",
+    "options": ["Stade Bollaert-Delelis", "Stade Auguste-Delaune", "Stade Geoffroy-Guichard", "Stade de la Mosson"],
+    "correctAnswer": "Stade Bollaert-Delelis",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1954 World Cup?",
+    "options": ["Germany", "Hungary", "Austria", "Uruguay"],
+    "correctAnswer": "Germany",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Angers's stadium?",
+    "options": ["Stade Raymond-Kopa", "Stade Bollaert-Delelis", "Stade Auguste-Delaune", "Stade Geoffroy-Guichard"],
+    "correctAnswer": "Stade Raymond-Kopa",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Professor'?",
+    "options": ["Arsene Wenger", "Jose Mourinho", "Pep Guardiola", "Carlo Ancelotti"],
+    "correctAnswer": "Arsene Wenger",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Brest's stadium?",
+    "options": ["Stade Francis-Le Ble", "Stade Raymond-Kopa", "Stade Bollaert-Delelis", "Stade Auguste-Delaune"],
+    "correctAnswer": "Stade Francis-Le Ble",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1950 World Cup?",
+    "options": ["Uruguay", "Brazil", "Sweden", "Spain"],
+    "correctAnswer": "Uruguay",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Metz's stadium?",
+    "options": ["Stade Saint-Symphorien", "Stade Francis-Le Ble", "Stade Raymond-Kopa", "Stade Bollaert-Delelis"],
+    "correctAnswer": "Stade Saint-Symphorien",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Special One'?",
+    "options": ["Jose Mourinho", "Pep Guardiola", "Jurgen Klopp", "Carlo Ancelotti"],
+    "correctAnswer": "Jose Mourinho",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Dijon's stadium?",
+    "options": ["Stade Gaston-Gerard", "Stade Saint-Symphorien", "Stade Francis-Le Ble", "Stade Raymond-Kopa"],
+    "correctAnswer": "Stade Gaston-Gerard",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1938 World Cup?",
+    "options": ["Italy", "Hungary", "Brazil", "France"],
+    "correctAnswer": "Italy",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Nimes's stadium?",
+    "options": ["Stade des Costieres", "Stade Gaston-Gerard", "Stade Saint-Symphorien", "Stade Francis-Le Ble"],
+    "correctAnswer": "Stade des Costieres",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Godfather'?",
+    "options": ["Sir Alex Ferguson", "Arsene Wenger", "Jose Mourinho", "Pep Guardiola"],
+    "correctAnswer": "Sir Alex Ferguson",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Amiens's stadium?",
+    "options": ["Stade de la Licorne", "Stade des Costieres", "Stade Gaston-Gerard", "Stade Saint-Symphorien"],
+    "correctAnswer": "Stade de la Licorne",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1934 World Cup?",
+    "options": ["Italy", "Czechoslovakia", "Germany", "Austria"],
+    "correctAnswer": "Italy",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Caen's stadium?",
+    "options": ["Stade Michel-d'Ornano", "Stade de la Licorne", "Stade des Costieres", "Stade Gaston-Gerard"],
+    "correctAnswer": "Stade Michel-d'Ornano",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The King'?",
+    "options": ["Pele", "Diego Maradona", "Cristiano Ronaldo", "Lionel Messi"],
+    "correctAnswer": "Pele",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Troyes's stadium?",
+    "options": ["Stade de l'Aube", "Stade Michel-d'Ornano", "Stade de la Licorne", "Stade des Costieres"],
+    "correctAnswer": "Stade de l'Aube",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1930 World Cup?",
+    "options": ["Uruguay", "Argentina", "Yugoslavia", "United States"],
+    "correctAnswer": "Uruguay",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Clermont's stadium?",
+    "options": ["Stade Gabriel-Montpied", "Stade de l'Aube", "Stade Michel-d'Ornano", "Stade de la Licorne"],
+    "correctAnswer": "Stade Gabriel-Montpied",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Beast'?",
+    "options": ["Adriano", "Hulk", "Romelu Lukaku", "Didier Drogba"],
+    "correctAnswer": "Adriano",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Lorient's stadium?",
+    "options": ["Stade du Moustoir", "Stade Gabriel-Montpied", "Stade de l'Aube", "Stade Michel-d'Ornano"],
+    "correctAnswer": "Stade du Moustoir",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which country won the 1928 Olympics football?",
+    "options": ["Uruguay", "Argentina", "Italy", "Netherlands"],
+    "correctAnswer": "Uruguay",
+    "category": "World Cup"
+  },
+  {
+    "question": "What is the name of Lorient's stadium?",
+    "options": ["Stade du Moustoir", "Stade Gabriel-Montpied", "Stade de l'Aube", "Stade Michel-d'Ornano"],
+    "correctAnswer": "Stade du Moustoir",
+    "category": "Stadiums"
+  },
+  {
+    "question": "Which player is known as 'The Magician'?",
+    "options": ["Ronaldinho", "Zinedine Zidane", "Diego Maradona", "Johan Cruyff"],
+    "correctAnswer": "Ronaldinho",
+    "category": "Players"
+  },
+  {
+    "question": "What is the name of Lorient's stadium?",
+    "options": ["Stade du Moustoir", "Stade Gabriel-Montpied", "Stade de l'Aube", "Stade Michel-d'Ornano"],
+    "correctAnswer": "Stade du Moustoir",
+    "category": "Stadiums"
+  }
+]

@@ -10,6 +10,10 @@ import 'package:foot/main.dart';
 import 'package:foot/pages/competition_matches_page.dart';
 
 void main() {
+  setUp(() {
+    TestWidgetsFlutterBinding.ensureInitialized()
+        .handleAppLifecycleStateChanged(AppLifecycleState.resumed);
+  });
   testWidgets('requests ATT on iOS before leaving the splash', (tester) async {
     SharedPreferences.setMockInitialValues({});
     debugDefaultTargetPlatformOverride = TargetPlatform.iOS;
@@ -40,6 +44,73 @@ void main() {
       debugDefaultTargetPlatformOverride = null;
     }
   });
+
+  testWidgets('ATT waits for the app to become active', (tester) async {
+    SharedPreferences.setMockInitialValues({});
+    debugDefaultTargetPlatformOverride = TargetPlatform.iOS;
+    const channel = MethodChannel('app_tracking_transparency');
+    final calls = <String>[];
+    tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(channel, (
+      call,
+    ) async {
+      calls.add(call.method);
+      return call.method == 'getTrackingAuthorizationStatus' ? 0 : 2;
+    });
+    try {
+      tester.binding.handleAppLifecycleStateChanged(AppLifecycleState.inactive);
+      await tester.pumpWidget(const MaterialApp(home: SplashScreen()));
+      await tester.pump();
+      expect(calls, isEmpty);
+
+      tester.binding.handleAppLifecycleStateChanged(AppLifecycleState.resumed);
+      await tester.pump();
+      expect(calls, [
+        'getTrackingAuthorizationStatus',
+        'requestTrackingAuthorization',
+      ]);
+      await tester.pump(const Duration(seconds: 5));
+      await tester.pump();
+      expect(find.byType(OnboardingPage), findsOneWidget);
+    } finally {
+      tester.binding.handleAppLifecycleStateChanged(AppLifecycleState.resumed);
+      tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(
+        channel,
+        null,
+      );
+      debugDefaultTargetPlatformOverride = null;
+    }
+  });
+
+  for (final status in [1, 2, 3]) {
+    testWidgets('ATT does not request again for existing status $status', (
+      tester,
+    ) async {
+      SharedPreferences.setMockInitialValues({});
+      debugDefaultTargetPlatformOverride = TargetPlatform.iOS;
+      const channel = MethodChannel('app_tracking_transparency');
+      final calls = <String>[];
+      tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(channel, (
+        call,
+      ) async {
+        calls.add(call.method);
+        return status;
+      });
+      try {
+        await tester.pumpWidget(const MaterialApp(home: SplashScreen()));
+        await tester.pump();
+        expect(calls, ['getTrackingAuthorizationStatus']);
+        await tester.pump(const Duration(seconds: 5));
+        await tester.pump();
+        expect(find.byType(OnboardingPage), findsOneWidget);
+      } finally {
+        tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(
+          channel,
+          null,
+        );
+        debugDefaultTargetPlatformOverride = null;
+      }
+    });
+  }
 
   testWidgets('first launch opens onboarding after the splash', (tester) async {
     SharedPreferences.setMockInitialValues({});

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "FC Barcelona",
+    "league": "La Liga",
+    "city": "Barcelona",
+    "colors": ["blue", "garnet", "yellow"],
+    "hint": "La Masia graduates",
+    "logoClues": [
+      "Shield showing cross of Saint George and Catalan stripes on top.",
+      "Blue and garnet vertical stripes in the bottom half.",
+      "A stylized football sits at the center bottom.",
+      "Abbreviation letters span a central gold ribbon."
+    ]
+  },
+  {
+    "name": "Real Madrid",
+    "league": "La Liga",
+    "city": "Madrid",
+    "colors": ["white", "gold", "blue", "red"],
+    "hint": "Royal crown",
+    "logoClues": [
+      "Circular crest intersected by diagonal initials.",
+      "A royal crown sits atop the circle.",
+      "Gold accents outline the roundel.",
+      "A colored band crosses behind the initials."
+    ]
+  },
+  {
+    "name": "Liverpool",
+    "league": "Premier League",
+    "city": "Liverpool",
+    "colors": ["red", "white", "teal"],
+    "hint": "You'll Never Walk Alone",
+    "logoClues": [
+      "A mythic bird stands at the center holding a branch.",
+      "Shankly Gates motif appears above with a banner.",
+      "Side flames commemorate a historic tragedy.",
+      "Year of foundation appears below on a ribbon."
+    ]
+  },
+  {
+    "name": "Manchester United",
+    "league": "Premier League",
+    "city": "Manchester",
+    "colors": ["red", "yellow", "black"],
+    "hint": "Red Devils",
+    "logoClues": [
+      "Circular badge with a ship at the top.",
+      "A devil holding a trident at the center.",
+      "Club name appears on a yellow ribbon split top and bottom.",
+      "Two footballs flank the sides of the circle."
+    ]
+  },
+  {
+    "name": "Juventus",
+    "league": "Serie A",
+    "city": "Turin",
+    "colors": ["black", "white"],
+    "hint": "Minimal crest",
+    "logoClues": [
+      "Monochrome modern design introduced in 2017.",
+      "Stylized repeating initial forming a shield outline.",
+      "Represents shirt stripes and a scudetto shape.",
+      "No animal or complex heraldry present."
+    ]
+  },
+  {
+    "name": "Bayern Munich",
+    "league": "Bundesliga",
+    "city": "Munich",
+    "colors": ["red", "blue", "white"],
+    "hint": "Bavarian diamonds",
+    "logoClues": [
+      "Round badge with outer red ring.",
+      "Inner pattern shows blue-and-white lozenges.",
+      "Club name set around the circle.",
+      "Colors match the state flag motif."
+    ]
+  },
+  {
+    "name": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "city": "Dortmund",
+    "colors": ["yellow", "black"],
+    "hint": "BVB 09",
+    "logoClues": [
+      "Simple yellow circle with bold black initials.",
+      "Two digits below indicate founding year shorthand.",
+      "No animal or crown—pure typography.",
+      "One of the most recognizable minimalist crests."
+    ]
+  },
+  {
+    "name": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "city": "Paris",
+    "colors": ["blue", "red", "white"],
+    "hint": "Iconic tower",
+    "logoClues": [
+      "Round badge featuring a famous Parisian monument.",
+      "A cradle appears beneath within the circle.",
+      "Club name and city wrap around the outer ring.",
+      "Modern flat design with deep blue background."
+    ]
+  },
+  {
+    "name": "Olympique de Marseille",
+    "league": "Ligue 1",
+    "city": "Marseille",
+    "colors": ["sky blue", "white", "gold"],
+    "hint": "Droit au but",
+    "logoClues": [
+      "Interlaced initials form the main monogram.",
+      "A star sits above the crest.",
+      "Club motto appears on a ribbon at the bottom.",
+      "Clean, minimalist style in sky blue."
+    ]
+  },
+  {
+    "name": "Inter",
+    "league": "Serie A",
+    "city": "Milan",
+    "colors": ["black", "blue", "gold"],
+    "hint": "Intertwined initials",
+    "logoClues": [
+      "Circular badge with layered initials.",
+      "Modernized 2021 redesign with fewer rings.",
+      "Gold accents on a dark background.",
+      "No animal—focus on monogram geometry."
+    ]
+  }
+]

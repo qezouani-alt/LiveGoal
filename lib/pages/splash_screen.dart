@@ -20,7 +20,25 @@ class SplashScreen extends StatefulWidget {
 }
 
 class _SplashScreenState extends State<SplashScreen>
-    with TickerProviderStateMixin {
+    with TickerProviderStateMixin, WidgetsBindingObserver {
+  Completer<void>? _whenResumed;
+
+  Future<void> _waitUntilActive() async {
+    while (mounted &&
+        WidgetsBinding.instance.lifecycleState != AppLifecycleState.resumed) {
+      _whenResumed ??= Completer<void>();
+      await _whenResumed!.future;
+    }
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      _whenResumed?.complete();
+      _whenResumed = null;
+    }
+  }
+
   late final AnimationController _entrance = AnimationController(
     vsync: this,
     duration: const Duration(milliseconds: 850),
@@ -33,6 +51,7 @@ class _SplashScreenState extends State<SplashScreen>
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     _openNextPage();
   }
 
@@ -48,9 +67,13 @@ class _SplashScreenState extends State<SplashScreen>
     if (!mounted) return;
     if (!kIsWeb && defaultTargetPlatform == TargetPlatform.iOS) {
       try {
+        await _waitUntilActive();
+        if (!mounted) return;
         final status =
             await AppTrackingTransparency.trackingAuthorizationStatus;
         if (status == TrackingStatus.notDetermined) {
+          await _waitUntilActive();
+          if (!mounted) return;
           await AppTrackingTransparency.requestTrackingAuthorization();
         }
       } catch (error) {
@@ -83,6 +106,9 @@ class _SplashScreenState extends State<SplashScreen>
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    _whenResumed?.complete();
+    _whenResumed = null;
     _entrance.dispose();
     _progress.dispose();
     super.dispose();
